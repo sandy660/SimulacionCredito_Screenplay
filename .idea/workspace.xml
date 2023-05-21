@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="251910fc-de50-47ac-b591-363b2adfd2f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/questions/Pregunta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/questions/VerificarInformacionSimulacionCredito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/AbrirPaginaBancolombia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/ClicContinuar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/ClicEnOpcionSi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/ClicSimular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/IngresarMontoAleatorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/IngresarPlazoAleatorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/SeleccionarFechaNacimiento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/userInterfaces/BancolombiaSimulacionPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/utils/ChromeWebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/definitions/Simulacion_bancolombiaDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/SimulacionBancolombiaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/SimulacionCredito_Screenplay.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Simulacion_Bancolombia.feature" afterDir="false" />
-    </list>
+    <list default="true" id="251910fc-de50-47ac-b591-363b2adfd2f0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "/home/sandra/Videos/SimulacionCredito_Screenplay/src/test/resources/features",
     "project.structure.last.edited": "Project",
@@ -181,10 +155,20 @@
       <option name="presentableId" value="Default" />
       <updated>1684690679276</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer Commit">
+      <created>1684705725006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684705725006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Primer Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer Commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SimulacionCredito_Screenplay$Feature__Simulacion_Bancolombia.ic" NAME="Feature: Simulacion_Bancolombia Coverage Results" MODIFIED="1684695820460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
