@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="251910fc-de50-47ac-b591-363b2adfd2f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/questions/Pregunta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/questions/VerificarInformacionSimulacionCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/AbrirPaginaBancolombia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/ClicContinuar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/ClicEnOpcionSi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/ClicSimular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/IngresarMontoAleatorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/IngresarPlazoAleatorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/task/SeleccionarFechaNacimiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/userInterfaces/BancolombiaSimulacionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bancolombia/utils/ChromeWebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/definitions/Simulacion_bancolombiaDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/SimulacionBancolombiaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/SimulacionCredito_Screenplay.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Simulacion_Bancolombia.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Q73E46W88bbEbus3fNXG71n8He" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/home/sandra/Videos/SimulacionCredito_Screenplay/src/test/resources/features",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SimulacionBancolombiaTest">
+    <configuration name="Feature: Simulacion_Bancolombia" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Simulacion_Bancolombia.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SimulacionCredito_Screenplay" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Simulacion_Bancolombia" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Simulación exitosa de crédito" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Simulacion_Bancolombia.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SimulacionCredito_Screenplay" />
+      <option name="NAME_FILTER" value="^Simulación exitosa de crédito$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Simulación exitosa de crédito$&quot;" />
+      <shortenClasspath name="NONE" />
+      <option name="SUGGESTED_NAME" value="Scenario: Simulación exitosa de crédito" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacionBancolombiaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SimulacionCredito_Screenplay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.SimulacionBancolombiaTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="CUCUMBER_PUBLISH_TOKEN" value="3f8f24e3-7ade-4dc6-9f56-f9c8f9b0dc21" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simulacion_Bancolombiarunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SimulacionCredito_Screenplay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.Simulacion_Bancolombiarunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: Simulacion_Bancolombia" />
+      <item itemvalue="Cucumber Java.Scenario: Simulación exitosa de crédito" />
+      <item itemvalue="JUnit.Simulacion_Bancolombiarunner" />
+      <item itemvalue="JUnit.SimulacionBancolombiaTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimulacionBancolombiaTest" />
+        <item itemvalue="Cucumber Java.Scenario: Simulación exitosa de crédito" />
+        <item itemvalue="Cucumber Java.Feature: Simulacion_Bancolombia" />
+        <item itemvalue="JUnit.Simulacion_Bancolombiarunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="251910fc-de50-47ac-b591-363b2adfd2f0" name="Changes" comment="" />
+      <created>1684690679276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684690679276</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SimulacionCredito_Screenplay$Feature__Simulacion_Bancolombia.ic" NAME="Feature: Simulacion_Bancolombia Coverage Results" MODIFIED="1684695820460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.cucumber.core.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SimulacionCredito_Screenplay$Scenario__Simulación_exitosa_de_crédito.ic" NAME="Scenario: Simulación exitosa de crédito Coverage Results" MODIFIED="1684696878717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.cucumber.core.cli.*</FILTER>
+    </SUITE>
+  </component>
+</project>
