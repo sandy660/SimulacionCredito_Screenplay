@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/features/Simulacion_Bancolombia.feature",
         snippets = CucumberOptions.SnippetType.CAMELCASE,
-        glue = "definitions"
+        glue = "stepdefinitions"
 )
 public class SimulacionBancolombiaTest {
 }

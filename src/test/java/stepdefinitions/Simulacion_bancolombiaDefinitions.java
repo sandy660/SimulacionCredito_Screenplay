@@ -1,4 +1,4 @@
-package definitions;
+package stepdefinitions;
 
 import com.bancolombia.questions.Pregunta;
 import com.bancolombia.questions.VerificarInformacionSimulacionCredito;
@@ -14,10 +14,7 @@ import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
 import net.serenitybdd.screenplay.waits.WaitUntil;
-import org.awaitility.Awaitility;
 import org.openqa.selenium.WebDriver;
-
-import java.time.Duration;
 
 import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
 import static net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isPresent;
